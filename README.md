@@ -43,8 +43,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:
-### Register Number:
+### Name: DHARSHINI S N
+### Register Number: 212224230062
 ```
 import torch
 import torch.nn as nn
@@ -174,10 +174,11 @@ ai_brain = NeuralNet()
 
 ### Training Loss Vs Iteration Plot
 
+<img width="728" height="561" alt="Screenshot 2026-02-09 110520" src="https://github.com/user-attachments/assets/6e6cbe98-705e-4d47-a40d-03a4cbaa3387" />
 
 ### New Sample Data Prediction
 
-
+<img width="291" height="17" alt="Screenshot 2026-02-09 110530" src="https://github.com/user-attachments/assets/5a50f44f-d02a-40e2-b869-b653ab54e152" />
 
 ## RESULT
 
