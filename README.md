@@ -6,7 +6,10 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+This experiment implements a feedforward neural network regression model using PyTorch.
+The model accepts a single input feature and processes it through two hidden layers with ReLU activation functions to learn non-linear relationships.
+The output layer predicts a continuous value.
+The training process minimizes the Mean Squared Error (MSE) using the RMSProp optimizer, ensuring efficient convergence.
 
 ## Neural Network Model
 
